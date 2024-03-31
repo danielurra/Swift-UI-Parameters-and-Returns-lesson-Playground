@@ -1,4 +1,4 @@
-# Parameters and returns
+# Parameters and returns lesson Playground
 ![Screenshot 2024-03-31 at 5 12 34 AM](https://github.com/danielurra/Swift-UI-Parameters-and-Returns-lesson-Playground/assets/51704179/946c1411-ed86-45e1-aa8c-e474111c8209)
 
 ## Parameters are Potential, Arguments are Actual
