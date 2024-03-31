@@ -20,7 +20,12 @@ addNumbers(num1: 6, num2: 6)
 addNumbers(num1: 11, num2: addNumbers(num1: 11, num2: 11))
 // You can create a variable equal to the result of the function
 var yearsInUSA = addNumbers(num1: 3, num2: 2)
-
-
-
-
+// Make a function that takes a name (type string) and retur "Hello (name)"
+func sayHello(name: String) -> String {
+    return "Hello \(name)" // string interpolation \()
+}
+// now let's call our function
+sayHello(name: "Pepe")
+sayHello(name: "Satoshi")
+// if you want to print
+print(sayHello(name: "Filomena"))
