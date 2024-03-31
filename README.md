@@ -1,3 +1,5 @@
+## Grab the code
+```swift
 // #### Input values into a function ####
 func addIntegers (entero1: Int, entero2: Int){
     print(entero1 + entero2)
@@ -29,3 +31,4 @@ sayHello(name: "Pepe")
 sayHello(name: "Satoshi")
 // if you want to print
 print(sayHello(name: "Filomena"))
+```
