@@ -1,5 +1,6 @@
 # SwiftUI Parameters & Returns lesson Playground
-Swift UI Parameters and Returns lesson Playground
+![Screenshot 2024-03-31 at 5 12 34 AM](https://github.com/danielurra/Swift-UI-Parameters-and-Returns-lesson-Playground/assets/51704179/7fbd50d3-7b9a-471f-a813-23bdf98447a8)
+
 ## Parameters are Potential, Arguments are Actual
 [Mnemoic01](https://github.com/danielurra/mnemonic01)
 ## Grab the code
