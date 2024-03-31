@@ -2,6 +2,7 @@
 ![Screenshot 2024-03-31 at 5 12 34 AM](https://github.com/danielurra/Swift-UI-Parameters-and-Returns-lesson-Playground/assets/51704179/946c1411-ed86-45e1-aa8c-e474111c8209)
 
 ## Parameters are Potential, Arguments are Actual
+![Screenshot 2024-03-31 at 5 29 58 AM](https://github.com/danielurra/Swift-UI-Parameters-and-Returns-lesson-Playground/assets/51704179/3c309c16-fa31-48a8-bb77-418849451a61)
 
 ## Grab the code
 ```swift
